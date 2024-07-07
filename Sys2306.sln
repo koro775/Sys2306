@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sys2306.domain", "Sys2306.domain\Sys2306.domain.csproj", "{2B152528-1164-4A96-8B6B-3F3876CE376E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers2306", "Helpers2306\Helpers2306.csproj", "{64796253-2CD2-4F9D-AE61-E36886687D06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B152528-1164-4A96-8B6B-3F3876CE376E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B152528-1164-4A96-8B6B-3F3876CE376E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B152528-1164-4A96-8B6B-3F3876CE376E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B152528-1164-4A96-8B6B-3F3876CE376E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64796253-2CD2-4F9D-AE61-E36886687D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64796253-2CD2-4F9D-AE61-E36886687D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64796253-2CD2-4F9D-AE61-E36886687D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64796253-2CD2-4F9D-AE61-E36886687D06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54C84142-0C62-4BE4-AC3B-B569AD5CCCAD}
+	EndGlobalSection
+EndGlobal
